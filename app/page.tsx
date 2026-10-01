@@ -4,10 +4,10 @@ import Timeline from "@/components/ui/timeline";
 import { ArrowDown } from "lucide-react";
 
 const settings = {
-  textColor: "var(--color-foreground, #ffffff)",
-  mutedTextColor: "var(--color-muted-foreground, #a1a1aa)",
+  textColor: "#ffffff",
+  mutedTextColor: "#a1a1aa",
   activeColor: "#ff5f00",
-  backgroundColor: "var(--color-background, #0a0a0a)",
+  backgroundColor: "#0a0a0a",
   duration: 1.4,
 };
 
